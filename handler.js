@@ -47,7 +47,7 @@ export async function handler(chatUpdate) {
                 if (!isNumber(user.joincount)) user.joincount = 2   
                 if (!isNumber(user.limit)) user.limit = 20    	       
                 if (!('registered' in user)) user.registered = false
-            if (!user.registered) {
+            if (!user.registered) {a
                 if (!('name' in user)) user.name = m.name
                 if (!isNumber(user.age)) user.age = -1
                 if (!isNumber(user.anggur)) user.anggur = 0
