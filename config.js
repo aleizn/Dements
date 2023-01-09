@@ -9,16 +9,16 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['51914865141', '👑 Mystic - Creador 👑', true],
-  ['51917545642', '💫 Mystic - Collaborator 1 💫', true],
+  ['5493814181777', '💫 Mystic - 𝐁𝐨𝐭 💫', true],
 ] 
 
 global.suittag = ['51914865141'] 
-global.prems = ['51914865141'] 
+global.prems = ['5493814181777'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 𝐀𝐥𝐞★'
-global.wm = '★𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 𝐀𝐥𝐞★'
-global.igfg = '★𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 𝐀𝐥𝐞★'
+global.author = '★𝐓𝐇𝐄 𝐃𝐄𝐌𝐄𝐍𝐓𝐒★'
+global.wm = '★𝐓𝐇𝐄 𝐃𝐄𝐌𝐄𝐍𝐓𝐒★'
+global.igfg = '★𝐓𝐇𝐄 𝐃𝐄𝐌𝐄𝐍𝐓𝐒★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
